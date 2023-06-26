@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Aeunal](https://www.linkedin.com/in/aeunal)
-- 💻 I'm working in various machine learning projects.
+- 💻 I'm working on various machine learning projects in international consortiums.
 - 👀 I’m interested in computer vision, augmented reality, and robotics.
 - 🌱 I’m currently learning natural language processing algorithms.
 - 💞️ I’m looking to collaborate on interesting computer vision projects!
